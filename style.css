@@ -1,0 +1,85 @@
+body 
+{
+    margin: 0; padding: 0; font-family: fantasy;
+    background-image: url('images/avocado-1838785_960_720.jpg');
+
+}
+header
+{
+    background: #53c3b2;
+    color: #EFEB13;
+    font-size: 80px;
+    text-align: center;
+    padding: 40px 0;
+    font-size: Courier New
+}
+nav 
+{
+    background: #EBEBD5;
+    font-size: 20px;
+    color: black;
+    text-align: center
+}
+input[type=text] {
+    width: 50%;
+    height: 50%;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 300%;
+    text-align: center;
+    color: rgb(106, 146, 106);
+  }
+  button {
+      background-color: #f8b732;
+      background-color: #4CAF50;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+  }
+ul, ol
+{
+    list-style: none; padding: 0; margin: 0; color: #f8b732; font-family: Georgia
+}
+ul li 
+{
+    display: inline-block; padding: 25px; font-size: 20px
+}
+main 
+{
+    text-align: center; 
+    padding: 20px 0
+}
+ol
+{
+    display: inline-block
+}
+ol li{ display: inline-block; color: #B3AA22}
+blockquote
+{
+    margin: 50px;
+    font-family: Times New Roman;
+    font-size: 40px;
+    color: #19183C
+}
+h1
+{
+    font-family: Tahoma;
+    color: #060942
+}
+footer 
+{
+    background: #383F42;
+    color: #FFF;
+    text-align: center;
+    padding: 10px 0
+}
+small
+{
+    color: #4C4A61
+}
